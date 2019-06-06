@@ -1,0 +1,5 @@
+
+*.ide-shm
+*.ide-wal
+obj
+.vs
